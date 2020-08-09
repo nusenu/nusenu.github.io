@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/nusenu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nusenu.github.io
+  * I am nusenu (https://keybase.io/nusenu) on keybase.
+  * I have a public key with fingerprint 9690 CF1F BBB4 2985 954D  F2BB AD61 38C2 45CD 427E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a6aa451dba2b70990f3bb173d3cdd881f5bbea31f1a5e5ebd7ecf3bea9ff8f8f0a",
+      "fingerprint": "9690cf1fbbb42985954df2bbad6138c245cd427e",
+      "host": "keybase.io",
+      "key_id": "ad6138c245cd427e",
+      "kid": "0101a6aa451dba2b70990f3bb173d3cdd881f5bbea31f1a5e5ebd7ecf3bea9ff8f8f0a",
+      "uid": "ab6b5b14b474408a681d4e847d886119",
+      "username": "nusenu"
+    },
+    "service": {
+      "hostname": "nusenu.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1596977316,
+  "expire_in": 157680000,
+  "prev": "8f8064f6551e26e25dce869b77b728a880c12c6717d8c8b8b81a37fc13a2a47b",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn1QVFUU3+VDgYJ1GGNMh8TXAJlo7+773E1ltCF0kBIbEoJa333vPvYJ7m67
+DwgXmBChIckQBdlRQ4MyFGYNGDPIRkAdHDCgjGk0sAbF4SMlpNX8iO5q/tFMf3bP
+H/fec37nd87vzKkI9tUEaJsEvjPu4tpCbc8Y1JhemmpxEtAq5RFGJ5GJHl0oS0IO
+1ZSpSISRIAEJBFYQaAZIUNBDjjQYSJmCEHCURImSxPNAZiBEAgVkIDCIQVDikIgh
+SDDIMo+NFIgYQlYsGchusysWFdMaWAMpykCGENJ6A88YGFqS9RAKEgsoXtTTjCjR
+eg7hRLPV4c3AzUHBgVYoVuzDH9Oj9v4D/z/3nf24DmQhAwENaY6mSV5geSDRiKc5
+zMMCYPACHchuEbYhjLbgtyWbKIghsC9HEZF3rF4d/4qvyFBUczZ8rMhmt6pW0ZqF
+o2ZVtTmM3mw1z+aF5yJo+ofIBBWLhCeJM3KQ3aFYLYQRYKSoKl5mwODBchwF2BgC
+vWdT7MikeBEMx/IkPt46KAdTYnkkm0bLLMMApGeRnpFExLMGyHGQ0/MCz5Mi0Iss
+B7BCkYfYgEBxsggoQS/QHCS82t61WDG5ATcqZGBSh5JhEdRsOyIKgsp8KD+NNkAT
+HrbEr7qib3F769KSqsTp9ifr5+/j3T1NUOC8J54LPvM09UUlNcXDiYql7lTk08kZ
+XVKgf0jiyYGUOdFyY6ovd8hegpdk8Ot4088Ra79AvxyMbz0ovuHe9ubuhzMh8xM7
+QPmZoWfD3KWzP3xV22muuZ98fTRJO1F505ga7LrnKJvo+aR7dLQ4NGTYueh2WMvS
+VR/eKc8/nbUz3JZaxcXvohs+bpqVz6zckbagOq39mXNt9Vn9n05tr7zKz14bIAoP
+L5DffweuWzjQslFICg8uIrv2NBd8T3+Q94fn9/4ylzvX+ZzOHGXcs+vXncuSkrZW
+veCz5uKwb7XLkRm4pZ7ZHOiKXb+JmjzZ1vhdqVJxiZbN3FTDqYfDTw1q6/Yf6dU1
+DszvTfqrVPdWQ/PKnnawOeHEUWbmQkTJ7uhp542gcs/+yrsJz2+qzT2WX1gu067c
+vqrIB+i6aVKtqe6NvjJ0KO6KWPVZvqd58pvR9H2XRl5uyvYQP2aOonXjHYCeWlbt
+Zn/609z9ysSt4/ZrX6aO+C0CI+dXLzx+1N1RExul3isK4UIjnLcbt5R2Jhf+dpnf
+m/Dq1taPVi/f4Oo17l3jubNjrODAquU+rWcj1y9pnntVunu6q26jTvt64lnHnMW3
+Go5c7h+kptztD+JOpJzr1nzu23bTnaKLDT1M3e/rGit21x4ISN0eMrlv7o1x/7ej
+pl8j2fTiDedLK8esUelD34K8cc2x5pkXPX8D
+=MDBX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nusenu
+
+==================================================================
