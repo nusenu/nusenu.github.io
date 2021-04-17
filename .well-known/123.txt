@@ -1,1 +1,5 @@
+---
+layout: none
+permalink: .well-known/123.txt
+---
 123
