@@ -10,12 +10,15 @@
 * [OrNetRadar](https://nusenu.github.io/OrNetRadar/) - daily reports about newly added Tor relays
 * [relayor](https://github.com/nusenu/ansible-relayor) - An [Ansible](https://www.ansible.com/) Role for Tor Relay Operators
 
-
 ## Specifications
 
 * [Tor ContactInfo Information Sharing Specification](https://nusenu.github.io/ContactInfo-Information-Sharing-Specification/)
   * [ContactInfo Generator](https://torcontactinfogenerator.netlify.app) by [Eran Sandler](https://github.com/erans)
 * [IANA Well-Known URI](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml) ["tor-relay"](https://gitlab.torproject.org/tpo/core/torspec/-/blob/main/proposals/326-tor-relay-well-known-uri-rfc8615.md)
+
+## Presentations
+
+* rC3-2021: Towards a more Trustworthy Tor Network (with en subtitles and German translation) ([media.ccc.de](https://media.ccc.de/v/rc3-2021-chaosstudiohamburg-475-towards-a-more-trustworthy-tor-network)) 
 
 ## Guest Posts on 3rd party sites
 
