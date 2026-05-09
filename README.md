@@ -1,19 +1,16 @@
 * [mastodon.social](https://mastodon.social/@nusenu)
 * [Blog](https://nusenu.medium.com)
 * [GitHub](https://github.com/nusenu)
-* [Keybase](https://keybase.io/nusenu) (note: I don't read keybase messages)
 
 
 ## Projects
 
-* [OrNetStats](https://nusenu.github.io/OrNetStats/) - A daily updated Tor network status page with metadata about relay groups (families), relays and the entire network
-* [OrNetRadar](https://nusenu.github.io/OrNetRadar/) - daily reports about newly added Tor relays
+* [OrNetStats](https://nusenu.github.io/OrNetStats/) - A Tor network status page with metadata about relay groups (families), relays and the entire network
 * [relayor](https://github.com/nusenu/ansible-relayor) - An [Ansible](https://www.ansible.com/) Role for Tor Relay Operators
 
 ## Specifications
 
 * [Tor ContactInfo Information Sharing Specification](https://nusenu.github.io/ContactInfo-Information-Sharing-Specification/)
-  * [ContactInfo Generator](https://torcontactinfogenerator.netlify.app) by [Eran Sandler](https://github.com/erans)
 * [IANA Well-Known URI](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml) ["tor-relay"](https://gitlab.torproject.org/tpo/core/torspec/-/blob/main/proposals/326-tor-relay-well-known-uri-rfc8615.md)
 
 ## Presentations
@@ -28,4 +25,5 @@
 
 ## Past Projects
 
+* [OrNetRadar](https://nusenu.github.io/OrNetRadar/) 
 * [The RPKI Observatory](https://nusenu.github.io/RPKI-Observatory/) - reports about [RPKI](https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure)-unreachable networks (BGP routing security)
